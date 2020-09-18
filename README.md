@@ -1,6 +1,8 @@
 # Pure Javascript Toaster #
 *Requires Nothing*
 
+[**Demo**](https://kvinbabbar.github.io/Pure-Javascript-Toaster-Plugin/)
+
 **Toaster** is a Pure Javascript plugin for displaying toast notifications. It comes with different options e.g custom text or HTML message, duration, custom class, toggle close button, position, custom close icon and backgorund color.
 
 ### What Is This Toast You Speak Of? ###
